@@ -3,40 +3,44 @@
     {
       "id": 1,
       "account": {
-        "name": "Skelly Tynnan",
-        "followers": 99451,
-        "likes": 75420,
-        "profile_views": 66547,
+        "name": "@USuario",
+        "followers": 9451,
+        "likes": 7420,
+        "profile_views": 10547,
+        "type": "facebook",
         "status": true
       }
     },
     {
       "id": 2,
       "account": {
-        "name": "Tarrance Sillis",
-        "followers": 65728,
-        "likes": 36677,
+        "name": "@Usuario",
+        "followers": 6572,
+        "likes": 3667,
         "profile_views": 15692,
+        "type": "twitter",
         "status": true
       }
     },
     {
       "id": 3,
       "account": {
-        "name": "Zeb Applewhite",
-        "followers": 20419,
-        "likes": 37650,
-        "profile_views": 64706,
+        "name": "@Usuario",
+        "followers": 2041,
+        "likes": 3765,
+        "profile_views": 6470,
+        "type": "instagram",
         "status": false
       }
     },
     {
       "id": 4,
       "account": {
-        "name": "Roseanne Dorwood",
+        "name": "@Usuario",
         "followers": 38311,
-        "likes": 80883,
+        "likes": 8088,
         "profile_views": 39540,
+        "type":"youtube",
         "status": true
       }
     }
