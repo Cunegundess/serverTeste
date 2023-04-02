@@ -1,72 +1,105 @@
-{
-  "social_accounts": [
-    {
-      "id": 1,
-      "account": {
-        "name": "@Usuario",
-        "titlePage": "Page Views",
-        "titleLikes": "Likes",
-        "totalPage": "87",
-        "totalLikes": "100",
-        "percentPage": "3",
-        "percentLikes": "5",
-        "followers": 9451,
-        "likes": 7420,
-        "followersOverview": 1547,
+[
+  {
+    "dataFake": [
+      {
+        "id": "1",
+        "nickname": "@UsuarioFake",
+        "followers": 2000,
+        "followersOverview": 150,
         "type": "facebook",
-        "status": true
-      }
-    },
-    {
-      "id": 2,
-      "account": {
-        "name": "@Usuario",
-        "titlePage": "Retweets",
-        "titleLikes": "Likes",
-        "totalPage": "200",
-        "totalLikes": "500",
-        "percentPage": "10",
-        "percentLikes": "30",
-        "followers": 6572,
-        "likes": 3667,
-        "followersOverview": 3692,
+        "status": false
+      },
+      {
+        "id": "2",
+        "nickname": "@UsuarioFake_oficial",
+        "followers": 1044,
+        "followersOverview": 99,
         "type": "twitter",
         "status": true
-      }
-    },
-    {
-      "id": 3,
-      "account": {
-        "name": "@Usuario",
-        "titlePage": "Profile Views",
-        "titleLikes": "Likes",
-        "totalPage": "1000",
-        "totalLikes": "300",
-        "percentPage": "10",
-        "percentLikes": "5",
-        "followers": 2041,
-        "likes": 3765,
-        "followersOverview": 1370,
+      },
+      {
+        "id": "3",
+        "nickname": "@realusuarioFake",
+        "followers": 11,
+        "followersOverview": 1099,
         "type": "instagram",
+        "status": true
+      },
+      {
+        "id": "4",
+        "nickname": "Usuario F.",
+        "followers": 8239,
+        "followersOverview": 144,
+        "type": "youtube",
         "status": false
       }
-    },
-    {
-      "id": 4,
-      "account": {
-        "name": "@Usuario",
-        "titlePage": "Total Views",
-        "titleLikes": "Likes",
-        "totalPage": "10000",
-        "totalLikes": "2000",
-        "percentPage": "30",
-        "percentLikes": "40",
-        "followers": 38311,
-        "likes": 8088,
-        "followersOverview": 20540,
-        "type": "youtube",
+    ],
+
+    "fakeOVerview": [
+      {
+        "id": "1",
+        "title": "Page Views",
+        "total": "87",
+        "percent": "3",
+        "type": "facebook",
         "status": true
+      },
+      {
+        "id": "2",
+        "title": "Likes",
+        "total": "52",
+        "percent": "2",
+        "type": "facebook",
+        "status": false
+      },
+      {
+        "id": "3",
+        "title": "Likes",
+        "total": "5462",
+        "percent": "2257",
+        "type": "instagram",
+        "status": true
+      },
+      {
+        "id": "4",
+        "title": "Profile Views",
+        "total": "52k",
+        "percent": "1375",
+        "type": "instagram",
+        "status": true
+      },
+      {
+        "id": "5",
+        "title": "Retweets",
+        "total": "117",
+        "percent": "303",
+        "type": "twitter",
+        "status": true
+      },
+      {
+        "id": "6",
+        "title": "Likes",
+        "total": "507",
+        "percent": "553",
+        "type": "twitter",
+        "status": true
+      },
+      {
+        "id": "7",
+        "title": "Likes",
+        "total": "107",
+        "percent": "19",
+        "type": "youtube",
+        "status": false
+      },
+      {
+        "id": "8",
+        "title": "Total Views",
+        "total": "1407",
+        "percent": "12",
+        "type": "youtube",
+        "status": false
       }
-    }
-  ]
-}
+    ]
+  }
+]
